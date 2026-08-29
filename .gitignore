@@ -1,0 +1,12 @@
+# Carpetas de compilación y temporales de Eclipse
+bin/
+build/
+
+# Archivos de configuración de Eclipse
+.classpath
+.project
+.settings/
+
+# Archivos temporales e índices del sistema
+.DS_Store
+Thumbs.db
